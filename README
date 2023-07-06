@@ -1,1 +1,5 @@
-conda activate pcs
+Scrape some data from procyclingstats.com and do some classification on who will be top 10 in the
+tour-de-france
+
+Need beautifulsoup, scikit-learn, pandas etc.
+

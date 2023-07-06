@@ -6,3 +6,4 @@ rider_data
 *.csv.gz
 *.csv
 *.gz
+local_notes.txt
